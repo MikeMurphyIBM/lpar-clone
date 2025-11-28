@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-WORKSPACE_ID="us-south.workspace.clone-test.f1da6c21"
+WORKSPACE_ID="us-south.workspace.clone-test.8c45db95"
 
 APIKEY="$apikey"
 
